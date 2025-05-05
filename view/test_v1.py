@@ -1,1 +1,1 @@
-print('Test learn python')
+print('Test learn python diff')
